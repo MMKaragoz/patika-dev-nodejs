@@ -1,0 +1,2 @@
+- create functions that are finding area of the circle and circumference of the circle in circle.js
+- run in index.js.
