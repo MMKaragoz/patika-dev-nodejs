@@ -1,0 +1,2 @@
+- CRUD operations by using fs module.
+- asynchronous and synchronous
