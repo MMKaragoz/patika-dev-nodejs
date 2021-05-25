@@ -16,6 +16,8 @@ const server = http.createServer((req, res) => {
     res.writeHead(404, { "Content-Type": "text/html" });
     res.write("<h2>ERROR 404 THE PAGE COULD NOT BE FOUND</h2>");
   }
+
+  res.end();
 });
 
 const PORT = 5000;
